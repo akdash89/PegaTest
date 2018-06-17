@@ -11,3 +11,4 @@ For testCases related code check package com.pega.test and for buisness flow sam
 check input folder for testcase.xlsx file
 check resources folder for congig properties file
 Check test_execution_report3.html for report whichi is present inside test-output folder of pegaAutomation .
+chnage chrome driver path under PegaDemoAutomation\src\main\resources and for any IE and firefox add key inside config.properties file .
