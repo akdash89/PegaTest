@@ -6,5 +6,7 @@ Steps to Execute -
 1- import both folder to workspace
 2-right click POM.xml and go to run AS maven install (which install all jars and library) .
 3-after that right click on PegaDemoAutomation Folder and run as Maven Update to update all TestCase related folder .
-Right click on Pom.xml of PegaDemoAutomation Folder and run As Maven Build .
+Right click on Pom.xml of PegaDemoAutomation Folder and run As Maven Build(set goal as clean package exec:java thn click on apply and run) .
 For testCases related code check package com.pega.test and for buisness flow sample check com.pega.datacreate package .
+check input folder for testcase.xlsx file
+check resources folder for congig properties file
